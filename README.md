@@ -8,7 +8,7 @@ This repository contains the projects develop after the course "Data Analysis wi
 - Page View Time Series Visualizer
 - Sea Level Predictor
 
-## The projects were originally build on "replit.com"
+## The projects were originally built on "replit.com"
 
 ## Mean-Variance-Standard Deviation Calculator
 
