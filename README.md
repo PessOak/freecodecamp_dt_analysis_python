@@ -1,5 +1,5 @@
 # freecodecamp_dt_analysis_python
-This repository contains the projects develop after the course "Data Analysis with Python" on freecodecamp.org Here you will only find the codes that are requested for the project. The "test_module.py" and "main.py" files and also de "csv" files used for each project can be found in: https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course (on the botton of the page under the title: "Data Analysis with Python Projects").
+This repository contains the projects develop after the course "Data Analysis with Python" on freecodecamp.org Here you will only find the codes that are requested for the project. The "test_module.py" and "main.py" files and also de ".csv" files used for each project can be found in: https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course (on the botton of the page under the title: "Data Analysis with Python Projects"). All the projects were originally built on "replit.com"
 
 ## The projects are: 
 - Mean-Variance-Standard Deviation Calculator
@@ -7,8 +7,6 @@ This repository contains the projects develop after the course "Data Analysis wi
 - Medical Data Visualizer
 - Page View Time Series Visualizer
 - Sea Level Predictor
-
-## The projects were originally built on "replit.com"
 
 ## Mean-Variance-Standard Deviation Calculator
 
